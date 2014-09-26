@@ -2,4 +2,7 @@
 Debian:
   pkgs:
     - sudo
+RedHat:
+  pkgs:
+    - sudo
 {% endload %}
